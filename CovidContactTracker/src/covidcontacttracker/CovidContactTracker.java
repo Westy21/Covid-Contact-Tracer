@@ -21,8 +21,6 @@ public class CovidContactTracker {
      */
     
     /**
-     * Name & Surname: Mphahlele Magomarele West
-     * Student No: 06HA2004280
      */
     public static void main(String[] args) {
         // TODO code application logic here
